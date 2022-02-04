@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "kind": {
+      "type": "string"
+    },
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "sr": {
+              "type": "string"
+            },
+            "comment_karma": {
+              "type": "integer"
+            },
+            "link_karma": {
+              "type": "integer"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "required": [
+    "kind",
+    "data"
+  ]
+}

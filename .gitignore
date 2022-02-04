@@ -1,0 +1,8 @@
+config.properties
+.idea/
+target/
+allure-results/
+allure-report/
+*.iml
+.allure/
+*.log

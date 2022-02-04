@@ -1,0 +1,342 @@
+{
+  "type": "object",
+  "properties": {
+    "beta": {
+      "type": "boolean"
+    },
+    "default_theme_sr": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "threaded_messages": {
+      "type": "boolean"
+    },
+    "email_comment_reply": {
+      "type": "boolean"
+    },
+    "private_feeds": {
+      "type": "boolean"
+    },
+    "activity_relevant_ads": {
+      "type": "boolean"
+    },
+    "email_messages": {
+      "type": "boolean"
+    },
+    "profile_opt_out": {
+      "type": "boolean"
+    },
+    "video_autoplay": {
+      "type": "boolean"
+    },
+    "email_private_message": {
+      "type": "boolean"
+    },
+    "geopopular": {
+      "type": "string"
+    },
+    "show_link_flair": {
+      "type": "boolean"
+    },
+    "show_trending": {
+      "type": "boolean"
+    },
+    "send_welcome_messages": {
+      "type": "boolean"
+    },
+    "country_code": {
+      "type": "string"
+    },
+    "design_beta": {
+      "type": "boolean"
+    },
+    "monitor_mentions": {
+      "type": "boolean"
+    },
+    "hide_downs": {
+      "type": "boolean"
+    },
+    "clickgadget": {
+      "type": "boolean"
+    },
+    "lang": {
+      "type": "string"
+    },
+    "ignore_suggested_sort": {
+      "type": "boolean"
+    },
+    "show_presence": {
+      "type": "boolean"
+    },
+    "email_upvote_comment": {
+      "type": "boolean"
+    },
+    "email_digests": {
+      "type": "boolean"
+    },
+    "layout": {
+      "type": "string"
+    },
+    "num_comments": {
+      "type": "integer"
+    },
+    "feed_recommendations_enabled": {
+      "type": "boolean"
+    },
+    "label_nsfw": {
+      "type": "boolean"
+    },
+    "research": {
+      "type": "boolean"
+    },
+    "use_global_defaults": {
+      "type": "boolean"
+    },
+    "show_snoovatar": {
+      "type": "boolean"
+    },
+    "over_18": {
+      "type": "boolean"
+    },
+    "legacy_search": {
+      "type": "boolean"
+    },
+    "live_orangereds": {
+      "type": "boolean"
+    },
+    "highlight_controversial": {
+      "type": "boolean"
+    },
+    "no_profanity": {
+      "type": "boolean"
+    },
+    "domain_details": {
+      "type": "boolean"
+    },
+    "collapse_left_bar": {
+      "type": "boolean"
+    },
+    "email_community_discovery": {
+      "type": "boolean"
+    },
+    "bad_comment_autocollapse": {
+      "type": "string"
+    },
+    "hide_ups": {
+      "type": "boolean"
+    },
+    "third_party_data_personalized_ads": {
+      "type": "boolean"
+    },
+    "email_chat_request": {
+      "type": "boolean"
+    },
+    "allow_clicktracking": {
+      "type": "boolean"
+    },
+    "hide_from_robots": {
+      "type": "boolean"
+    },
+    "show_twitter": {
+      "type": "boolean"
+    },
+    "compress": {
+      "type": "boolean"
+    },
+    "accept_pms": {
+      "type": "string"
+    },
+    "store_visits": {
+      "type": "boolean"
+    },
+    "threaded_modmail": {
+      "type": "boolean"
+    },
+    "email_upvote_post": {
+      "type": "boolean"
+    },
+    "min_link_score": {
+      "type": "integer"
+    },
+    "media_preview": {
+      "type": "string"
+    },
+    "email_user_new_follower": {
+      "type": "boolean"
+    },
+    "nightmode": {
+      "type": "boolean"
+    },
+    "enable_default_themes": {
+      "type": "boolean"
+    },
+    "third_party_site_data_personalized_content": {
+      "type": "boolean"
+    },
+    "third_party_site_data_personalized_ads": {
+      "type": "boolean"
+    },
+    "survey_last_seen_time": {
+      "type": "null"
+    },
+    "show_stylesheets": {
+      "type": "boolean"
+    },
+    "enable_followers": {
+      "type": "boolean"
+    },
+    "email_new_user_welcome": {
+      "type": "boolean"
+    },
+    "public_votes": {
+      "type": "boolean"
+    },
+    "email_post_reply": {
+      "type": "boolean"
+    },
+    "collapse_read_messages": {
+      "type": "boolean"
+    },
+    "show_flair": {
+      "type": "boolean"
+    },
+    "mark_messages_read": {
+      "type": "boolean"
+    },
+    "search_include_over_18": {
+      "type": "boolean"
+    },
+    "hide_ads": {
+      "type": "boolean"
+    },
+    "third_party_personalized_ads": {
+      "type": "boolean"
+    },
+    "email_username_mention": {
+      "type": "boolean"
+    },
+    "top_karma_subreddits": {
+      "type": "boolean"
+    },
+    "newwindow": {
+      "type": "boolean"
+    },
+    "numsites": {
+      "type": "integer"
+    },
+    "min_comment_score": {
+      "type": "integer"
+    },
+    "send_crosspost_messages": {
+      "type": "boolean"
+    },
+    "media": {
+      "type": "string"
+    },
+    "public_server_seconds": {
+      "type": "boolean"
+    },
+    "show_gold_expiration": {
+      "type": "boolean"
+    },
+    "highlight_new_comments": {
+      "type": "boolean"
+    },
+    "email_unsubscribe_all": {
+      "type": "boolean"
+    },
+    "default_comment_sort": {
+      "type": "string"
+    },
+    "show_location_based_recommendations": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "beta",
+    "default_theme_sr",
+    "threaded_messages",
+    "email_comment_reply",
+    "private_feeds",
+    "activity_relevant_ads",
+    "email_messages",
+    "profile_opt_out",
+    "video_autoplay",
+    "email_private_message",
+    "geopopular",
+    "show_link_flair",
+    "show_trending",
+    "send_welcome_messages",
+    "country_code",
+    "design_beta",
+    "monitor_mentions",
+    "hide_downs",
+    "clickgadget",
+    "lang",
+    "ignore_suggested_sort",
+    "show_presence",
+    "email_upvote_comment",
+    "email_digests",
+    "layout",
+    "num_comments",
+    "feed_recommendations_enabled",
+    "label_nsfw",
+    "research",
+    "use_global_defaults",
+    "show_snoovatar",
+    "over_18",
+    "legacy_search",
+    "live_orangereds",
+    "highlight_controversial",
+    "no_profanity",
+    "domain_details",
+    "collapse_left_bar",
+    "email_community_discovery",
+    "bad_comment_autocollapse",
+    "hide_ups",
+    "third_party_data_personalized_ads",
+    "email_chat_request",
+    "allow_clicktracking",
+    "hide_from_robots",
+    "show_twitter",
+    "compress",
+    "accept_pms",
+    "store_visits",
+    "threaded_modmail",
+    "email_upvote_post",
+    "min_link_score",
+    "media_preview",
+    "email_user_new_follower",
+    "nightmode",
+    "enable_default_themes",
+    "third_party_site_data_personalized_content",
+    "third_party_site_data_personalized_ads",
+    "survey_last_seen_time",
+    "show_stylesheets",
+    "enable_followers",
+    "email_new_user_welcome",
+    "public_votes",
+    "email_post_reply",
+    "collapse_read_messages",
+    "show_flair",
+    "mark_messages_read",
+    "search_include_over_18",
+    "hide_ads",
+    "third_party_personalized_ads",
+    "email_username_mention",
+    "top_karma_subreddits",
+    "newwindow",
+    "numsites",
+    "min_comment_score",
+    "send_crosspost_messages",
+    "media",
+    "public_server_seconds",
+    "show_gold_expiration",
+    "highlight_new_comments",
+    "email_unsubscribe_all",
+    "default_comment_sort",
+    "show_location_based_recommendations"
+  ]
+}
